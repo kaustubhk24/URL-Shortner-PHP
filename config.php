@@ -20,4 +20,13 @@ if ($conn->connect_error) {
   }
 
 
+
+///  Create Users Here
+
+/// After first successful login please remove this
+
+$user="admin";
+$pass="admin";
+
+
 ?>
